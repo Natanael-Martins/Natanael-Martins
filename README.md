@@ -11,6 +11,7 @@ Atualmente, estou dedicando meu tempo ao aprimoramento dos meus conhecimentos cu
 <img align="center" alt="Natanael-Kotlin" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 <img align="center" alt="Natanael-DotNet" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 </div>
+<img align="center" alt="Natanael-AWS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 
 ## 📬 Contato
